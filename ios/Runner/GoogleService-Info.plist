@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>494747982540-gv1l96d6jndkhcqth9vil4797fcqmfj7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.494747982540-gv1l96d6jndkhcqth9vil4797fcqmfj7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAi619MEMBJD8_7_AcWheDW4XbRLgn-1KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>494747982540</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agiledevelopment.deni.dudaShelter</string>
+	<key>PROJECT_ID</key>
+	<string>dogshelter-9da49</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dogshelter-9da49.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:494747982540:ios:f48a08d2f742cf10ee4069</string>
+</dict>
+</plist>

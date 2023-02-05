@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155287368114",
+    "project_id": "dudashelterdeniorg",
+    "storage_bucket": "dudashelterdeniorg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155287368114:android:352e1f14722bf2676eb4ab",
+        "android_client_info": {
+          "package_name": "com.agiledevelopment.deni.duda_shelter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155287368114-sbolv6bs0lr0o0b28h52q51hk8rftbn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGyrN8uFd_DWt5DRqWt_lD6pcWmfERIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155287368114-sbolv6bs0lr0o0b28h52q51hk8rftbn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

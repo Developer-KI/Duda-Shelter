@@ -348,9 +348,9 @@ class _OurPetPageState extends State<OurPetPage> {
                                       final userLocation =
                                           "${sharedPreferences.getString("city")}, ${sharedPreferences.getString("country")}";
 
-                                      const serviceId = 'service_pxhskbb';
-                                      const templateId = 'template_emoytqz';
-                                      const publicKey = 'wxdnf3hQ_bod6h3-C';
+                                      const serviceId = 'service_h7fvcht';
+                                      const templateId = 'template_kqqostf';
+                                      const publicKey = 'hR3LKlgSIE6Oce0jC';
 
                                       final url = Uri.parse(
                                           'https://api.emailjs.com/api/v1.0/email/send');

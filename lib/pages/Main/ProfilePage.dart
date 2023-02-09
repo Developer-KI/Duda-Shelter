@@ -411,6 +411,7 @@ class _OurProfilePageState extends State<OurProfilePage> {
   }
 
   void getPets() async {
+    isLoading = true;
     var sharedPreferences = await SharedPreferences.getInstance();
     final queryLiked = await FirebaseFirestore.instance
         .collection(
@@ -422,7 +423,7 @@ class _OurProfilePageState extends State<OurProfilePage> {
     for (var like in queryLiked.docs) {
       bool isThere = false;
       for (var doc in queryAll.docs) {
-        if (like.reference.id == doc.get('referanceId')) {
+        if (doc.reference.id == like.get('referanceId')) {
           isThere = true;
         }
       }
@@ -450,6 +451,7 @@ class _OurProfilePageState extends State<OurProfilePage> {
             .delete();
       }
     }
+    isLoading = false;
   }
 
   @override

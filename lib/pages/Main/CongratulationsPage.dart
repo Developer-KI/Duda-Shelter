@@ -44,7 +44,7 @@ class _OurCongratulationsState extends State<OurCongratulations> {
             children: [
               const SizedBox(height: 0),
               const Text(
-                "Thanks for donating!",
+                "Dear Duda friends,\nThank you so much for suppawting us!\n🐾\nEvery shelter’s paw wishes you blessings, happiness and love 🐶🫶🏻🐶",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.black,

@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.agiledevelopment.deni" "\0"
-            VALUE "FileDescription", "duda_shelter" "\0"
+            VALUE "FileDescription", "Duda Shelter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "duda_shelter" "\0"
+            VALUE "InternalName", "Duda Shelter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.agiledevelopment.deni. All rights reserved." "\0"
             VALUE "OriginalFilename", "duda_shelter.exe" "\0"
-            VALUE "ProductName", "duda_shelter" "\0"
+            VALUE "ProductName", "Duda Shelter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

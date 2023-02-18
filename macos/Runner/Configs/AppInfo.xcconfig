@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = duda_shelter
+PRODUCT_NAME = Duda Shelter;
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.agiledevelopment.deni.dudaShelter
+PRODUCT_BUNDLE_IDENTIFIER = org.dudashelter.dog;
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.agiledevelopment.deni. All rights reserved.

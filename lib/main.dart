@@ -15,7 +15,7 @@ Future main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   Stripe.publishableKey =
-      'pk_test_51MYDhoHkiOfBM7yokKKbT6FY4NtfE79YK4DWRTPe4lLgx1QPP0o2NV2iACvJoZ87VctyA4yq0AZsuJJ6X1Bklwky00R6xZcJZ7';
+      'pk_live_51MYDhoHkiOfBM7yoSHMycpURiyI7CyXdLyip29wWrUBD5azLNIzNcMvON8g5LOMc92WRe58IME4zSz9K00fYRofx00IUacKHGq';
 
   runApp(const MyApp());
 }
